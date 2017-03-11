@@ -67,10 +67,19 @@
 	  id: 7,
       name: 'Where they made it official',
       age: 7,
-      job: 'Discovery Park',
+      job: 'Discovery (Manila) Park',
       images: ['images/Official1.png', 'images/Official2.png'],
       distance: 7,
       description: 'It was July 4th, 2016. We were watching the fireworks. He said "Well, we\'ve been on a few dates." - "Seven dates." - "Seven? Seven dates now. I think we should make it official."'	
+	},
+	{
+	  id: 8,
+      name: 'Where they shared their first kiss',
+      age: 8,
+      job: 'My front doorstep',
+      images: ['images/firstKiss1.png', 'images/firstKiss2.png'],
+      distance: 8,
+      description: 'We had just finished up a date at the library. We then sat by the duck pond for a while and had a positive DTR. When we were at my doorstep, I played with my keys and then when 60%. She didn\'t get it, so I said I was pulling a Hitch move and going 60%.'	
 	}
   ];
 
