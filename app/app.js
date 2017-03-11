@@ -40,7 +40,7 @@
       id: 4,
       name: 'It\'s a match!',
       age: 4,
-      job: 'A mover!',
+      job: 'It went well.',
       images: ['images/tag3.png'],
       distance: 4,
       description: '(Continue!)📸'
