@@ -80,6 +80,42 @@
       images: ['images/firstKiss1.jpg', 'images/firstKiss2.png'],
       distance: 8,
       description: 'We had just finished up a date at the library. We then sat by the duck pond for a while and had a positive DTR. When we were at my doorstep, I played with my keys and then when 60%. She didn\'t get it, so I said I was pulling a Hitch move and going 60%.'	
+	},
+	{
+	  id: 9,
+      name: 'Thus followed many dates.',
+      age: 9,
+      job: 'Everywhere',
+      images: ['images/misc1.jpg'],
+      distance: 9,
+      description: 'We went to a plate painting place and hers was awesome!'
+	},
+	{
+	  id: 10,
+      name: 'And their love grew...',
+      age: 10,
+      job: 'Pizza making',
+      images: ['images/us1.jpg', 'images/us2.jpg'],
+      distance: 9,
+      description: 'This is where we made pizzas together and played games.'
+	},
+	{
+	  id: 11,
+      name: 'and grew...',
+      age: 11,
+      job: 'Mustache growing',
+      images: ['images/us5.jpg'],
+      distance: 11,
+      description: 'After a successful attack on the nickle arcade, we walk away with our pride and considerably more facial hair.'
+	},
+	{
+	  id: 12,
+      name: 'and grew.',
+      age: 12,
+      job: 'Slurpee consumer',
+      images: ['images/us1.jpg', 'images/us2.jpg'],
+      distance: 12,
+      description: 'This is where we made pizzas together and played games.'
 	}
   ];
 
