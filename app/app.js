@@ -92,12 +92,12 @@
 	},
 	{
 	  id: 10,
-      name: 'And their love grew...',
+      name: 'And our love grew...',
       age: 10,
       job: 'Pizza making',
       images: ['images/us1.jpg', 'images/us2.jpg'],
       distance: 9,
-      description: 'This is where we made pizzas together and played games.'
+      description: 'This is when we made pizzas together and played games.'
 	},
 	{
 	  id: 11,
