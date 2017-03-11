@@ -7,7 +7,7 @@
       job: 'Web Developer at BYU Center for Teaching & Learning',
       images: ['images/me1.jpg', 'images/me2.jpg'],
       distance: 0,
-      description: 'Superhero fan and Spider-Man expert. I love games of any kind and I make a mean stir-fry and Brazilian cheese bread. I\' avaliable to adore Whitley with alliterative ability and my worst pun-ishment would be a world without bad jokes.'
+      description: 'Superhero fan and Spider-Man expert. I love games of any kind and I make a mean stir-fry and Brazilian cheese bread. I\' m avaliable to adore Whitley with alliterative ability and my worst pun-ishment would be a world without bad jokes.'
     },
     {
       id: 1,
@@ -16,7 +16,7 @@
       job: 'Manager at entrata',
       images: ['images/whitley1.jpg', 'images/whitley2.jpg'],
       distance: 1,
-      description: 'Absolutely the best girlfriend ever. She is kind and smart and determinted. She is honest and pure and lovely.'
+      description: 'Absolutely the best girlfriend ever. She is kind and smart and determined. She is honest and pure and lovely.'
     },
     {
       id: 2,
@@ -79,14 +79,14 @@
       job: 'My front doorstep',
       images: ['images/firstKiss1.jpg', 'images/firstKiss2.png'],
       distance: 8,
-      description: 'We had just finished up a date at the library. We then sat by the duck pond for a while and had a positive DTR. When we were at my doorstep, I played with my keys and then when 60%. She didn\'t get it, so I said I was pulling a Hitch move and going 60%.'	
+      description: 'We had just finished up a date at the library. We then sat by the duck pond for a while and had a positive DTR. When we were at my doorstep, I played with my keys and went 60%. She didn\'t get it, so I said I was pulling a Hitch move and going 60%.'	
 	},
 	{
 	  id: 9,
       name: 'Thus followed many dates.',
       age: 9,
       job: 'Everywhere',
-      images: ['images/misc1.jpg'],
+      images: ['images/misc1.jpg', 'images/me3.jpg'],
       distance: 9,
       description: 'We went to a plate painting place and hers was awesome!'
 	},
@@ -113,7 +113,7 @@
       name: 'and grew.',
       age: 12,
       job: 'Slurpee consumer',
-      images: ['images/us1.jpg', 'images/us2.jpg'],
+      images: ['images/us8.jpg'],
       distance: 12,
       description: 'This is where we made pizzas together and played games.'
 	},
@@ -125,6 +125,42 @@
 		images: ['images/us6.jpg', 'images/us6.2.jpg'],
 		distance: 13,
 		description: 'Whitley is a fantastic example to me. First of all, she is a devoted daughter of God. She strives to make her Heavenly Father and her earthly parents proud of her every action. She shows dilligence and care in all that she does, big or small. She is devoted to being the best person she can be and always striving to be more Christlike.'
+	},
+	{
+		id: 14,
+		name: 'She makes me better',
+		age: 14,
+		job: 'I want to be the very best.',
+		images: ['images/me5.jpg', 'images/me6.jpg', 'images/us9.jpg'],
+		distance: 14,
+		description: 'Because she is so great, she makes me want to be my very best. She deserves the absolute most wonderful and loving guy in the world, and I want to be that man for her.'
+	},
+	{
+		id: 15,
+		name: 'Our goal',
+		age: 15,
+		job: 'Temple',
+		images: ['images/us3.jpg', 'images/us4.jpg'],
+		distance: 15,
+		description: 'But there is one last step...'
+	},
+	{
+		id: 16,
+		name: 'But there is one last step...',
+		age: 16,
+		job: 'Nearby',
+		images: ['images/tag4.jpg'],
+		distance: 0,
+		description: 'But there is one last step...'
+	},
+	{
+		id: 17,
+		name: 'Please open the door',
+		age: 17,
+		job: 'That one that I always come in through',
+		images: ['images/open1.jpg'],
+		distance: 15,
+		description: 'What are you waiting for?'
 	}
   ];
 
