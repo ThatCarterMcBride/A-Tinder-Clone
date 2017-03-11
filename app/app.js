@@ -2,40 +2,76 @@
   const items = [
     {
       id: 0,
-      name: 'Saba',
-      age: 25,
-      job: 'Phillippines',
-      images: ['images/testpic4.jpg', 'images/testpic2.jpg', 'images/testpic1.jpg'],
-      distance: 25,
-      description: 'Swipe for me! You’ll find me very ap-peel-ing'
+      name: 'Carter McBride',
+      age: 21,
+      job: 'Web Developer at BYU Center for Teaching & Learning',
+      images: ['images/me1.jpg', 'images/me2.jpg'],
+      distance: 0,
+      description: 'Superhero fan and Spider-Man expert. I love games of any kind and I make a mean stir-fry and Brazilian cheese bread. I\' avaliable to adore Whitley with alliterative ability and my worst pun-ishment would be a world without bad jokes.'
     },
     {
       id: 1,
-      name: 'Plantain',
-      age: 28,
-      job: 'Nicaragua',
-      images: ['images/testpic2.jpg', 'images/testpic4.jpg'],
-      distance: 4,
-      description: 'Lorem ipsum dolor sit amet, quo ad cibo viris legimus, simul delicata constituto per cu. Pro an commodo liberavisse, cu mutat sensibus tractatos est, animal similique ei nec. Et est molestie phaedrum, ut eam quot meliore. Usu hendrerit complectitur at, at iriure habemus facilisis sit. An eos probo graece.Propriae contentiones eu ius, pro eu ignota liberavisse disputationi, duo ea docendi consectetuer. Cum posse semper ea, ius invidunt qualisque scriptorem cu, ullum reprehendunt pro eu. Illud erant reformidans usu in. Ad vim quem choro iracundia. Ius in case mnesarchum.Duis signiferumque sed cu. Ut duo error congue intellegebat, fugit nostrud urbanitas ei has. Copiosae dissentias te eam, dicta efficiendi mea ad. Numquam persequeris te sea, ad populo graeci per, et mea aperiam noluisse interesset.Malorum abhorreant pri eu, no vidit quaeque mei, usu in dico meliore philosophia. Causae verterem pri in, te case suavitate nam. In ius ignota sanctus. Propriae repudiandae ad sit, gubergren ullamcorper usu ei. Ne vis fierent mediocritatem. Id nominati maluisset ius, soluta graece lobortis ut his, vocibus copiosae placerat est ad.Duo alia ferri impetus ei, deleniti scriptorem comprehensam ius an. Mea ne labore oblique adolescens. Ne velit albucius salutatus quo, cum iudico eripuit bonorum ad. Stet suscipit sea ad. Nec prompta suscipit mandamus at.'
+      name: 'Whitley Hicken',
+      age: 19,
+      job: 'Manager at entrata',
+      images: ['images/whitley1.jpg', 'images/whitley2.jpg'],
+      distance: 1,
+      description: 'Absolutely the best girlfriend ever. She is kind and smart and determinted. She is honest and pure and lovely.'
     },
     {
       id: 2,
-      name: 'Banan',
-      age: 21,
-      job: 'Finnland',
-      images: ['images/testpic3.jpg', 'images/testpic2.jpg'],
-      distance: 9,
-      description: 'I like fruits!'
+      name: 'Once upon a time...',
+      age: 2,
+      job: 'Storyteller',
+      images: ['images/tag1.jpg'],
+      distance: 2,
+      description: '(Keep swiping right!)'
     },
     {
       id: 3,
-      name: 'Actually an orange',
-      age: 12,
-      job: 'Scammer',
-      images: ['images/testpic1.jpg', 'images/testpic2.jpg'],
-      distance: 2455,
-      description: 'Follow me on my totally banana-related Instagram 📸'
-    }
+      name: 'A boy met a girl on Tinder',
+      age: 3,
+      job: 'Motivational Speaker',
+      images: ['images/tag2.jpg'],
+      distance: 3,
+      description: '(Keep going! It gets better!)📸'
+    },
+	{
+      id: 4,
+      name: 'It\'s a match!',
+      age: 4,
+      job: 'A mover!',
+      images: ['images/tag3.png'],
+      distance: 4,
+      description: '(Continue!)📸'
+    },
+	{
+      id: 5,
+      name: 'Their first hello',
+      age: 5,
+      job: 'Jedi Master',
+      images: ['images/firstHello.gif'],
+      distance: 5,
+      description: 'I start people off on really great relationships. It works out really really well usually.'
+    },
+	{
+      id: 6,
+      name: 'Our first date',
+      age: 6,
+      job: 'Mekong Cafe 2',
+      images: ['images/firstDate1.png', 'images/firstDate2.png'],
+      distance: 6,
+      description: 'She arrived before I did. I didn\'t recognize her, so I gave her a call when I was sitting behind her the whole time!'
+    },
+	{
+	  id: 7,
+      name: 'Where they made it official',
+      age: 7,
+      job: 'Discovery Park',
+      images: ['images/Official1.png', 'images/Official2.png'],
+      distance: 7,
+      description: 'It was July 4th, 2016. We were watching the fireworks. He said "Well, we\'ve been on a few dates." - "Seven dates." - "Seven? Seven dates now. I think we should make it official."'	
+	}
   ];
 
   const dataProvider = (function* () {
