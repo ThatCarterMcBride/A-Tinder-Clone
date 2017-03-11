@@ -11,7 +11,7 @@ const pkg = require('./package.json');
 gulp.task('build-css', _ =>
   gulp.src('app/*.css')
     .pipe(postcss([cssnext]))
-    .pipe(gulp.dest('dist'))
+    .pipe(gulp.dest('docs'))
 );
 
 gulp.task('build-js', _ =>
@@ -20,7 +20,7 @@ gulp.task('build-js', _ =>
     .pipe(babel({
       presets: ['babili']
     }))
-    .pipe(gulp.dest('dist'))
+    .pipe(gulp.dest('docs'))
 );
 
 gulp.task('build-html', _ =>
@@ -32,7 +32,7 @@ gulp.task('build-html', _ =>
       collapseWhitespace: true,
       customAttrCollapse: /^d$/
     }))
-    .pipe(gulp.dest('dist'))
+    .pipe(gulp.dest('docs'))
 );
 
 gulp.task('copy', _ =>
