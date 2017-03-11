@@ -116,6 +116,15 @@
       images: ['images/us1.jpg', 'images/us2.jpg'],
       distance: 12,
       description: 'This is where we made pizzas together and played games.'
+	},
+	{
+		id: 13,
+		name: 'She\'s an example',
+		age: 13,
+		job: '(Read the profile)',
+		images: ['images/us6.jpg', 'images/us6.2.jpg'],
+		distance: 13,
+		description: 'Whitley is a fantastic example to me. First of all, she is a devoted daughter of God. She strives to make her Heavenly Father and her earthly parents proud of her every action. She shows dilligence and care in all that she does, big or small. She is devoted to being the best person she can be and always striving to be more Christlike.'
 	}
   ];
 
