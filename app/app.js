@@ -47,7 +47,7 @@
     },
 	{
       id: 5,
-      name: 'Their first hello',
+      name: 'Our first hello',
       age: 5,
       job: 'Jedi Master',
       images: ['images/firstHello.gif'],
@@ -65,7 +65,7 @@
     },
 	{
 	  id: 7,
-      name: 'Where they made it official',
+      name: 'Where we made it official',
       age: 7,
       job: 'Discovery (Manila) Park',
       images: ['images/Official1.png', 'images/Official2.png'],
@@ -74,10 +74,10 @@
 	},
 	{
 	  id: 8,
-      name: 'Where they shared their first kiss',
+      name: 'Where we shared our first kiss',
       age: 8,
       job: 'My front doorstep',
-      images: ['images/firstKiss1.png', 'images/firstKiss2.png'],
+      images: ['images/firstKiss1.jpg', 'images/firstKiss2.png'],
       distance: 8,
       description: 'We had just finished up a date at the library. We then sat by the duck pond for a while and had a positive DTR. When we were at my doorstep, I played with my keys and then when 60%. She didn\'t get it, so I said I was pulling a Hitch move and going 60%.'	
 	}
