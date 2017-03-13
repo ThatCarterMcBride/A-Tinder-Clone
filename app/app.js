@@ -161,6 +161,33 @@
 		images: ['images/open1.jpg'],
 		distance: 15,
 		description: 'What are you waiting for?'
+	},
+	{
+		id: 18,
+		name: 'At the doorstep',
+		age: 18,
+		job: 'Professional Flower Holder',
+		images: ['images/Engage1.JPG'],
+		distance: 0,
+		description: 'I sent the message and then waited on the doorstep for about 10 minutes. She kept reloading the site to show her family halfway through.'
+	},
+	{
+		id: 19,
+		name: 'Reaction',
+		age: 19,
+		job: 'A Great Hugger',
+		images: ['images/Engage2.JPG'],
+		distance: 0,
+		description: 'She opened the door crying. Honestly, she was so emotional that she forgot to say yes "officially" until some minutes later when her dad asked her. She said: "Oh I guess I didn\'t say anything yet. *looks at me* Yes!'
+	},
+	{
+		id: 19,
+		name: 'She said yes!',
+		age: 18,
+		job: 'Officially Engaged Man',
+		images: ['images/Engage3.jpg'],
+		distance: 0,
+		description: 'This was later that day when we had time to prepare ourselves.'
 	}
   ];
 
