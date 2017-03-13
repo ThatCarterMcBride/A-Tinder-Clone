@@ -77,7 +77,7 @@
       name: 'Where we shared our first kiss',
       age: 8,
       job: 'My front doorstep',
-      images: ['images/firstKiss1.jpg', 'images/firstKiss2.png'],
+      images: ['images/firstKiss1.jpg'],
       distance: 8,
       description: 'We had just finished up a date at the library. We then sat by the duck pond for a while and had a positive DTR. When we were at my doorstep, I played with my keys and went 60%. She didn\'t get it, so I said I was pulling a Hitch move and going 60%.'	
 	},
