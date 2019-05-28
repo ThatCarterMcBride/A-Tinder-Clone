@@ -20,6 +20,6 @@
     "gulp-replace": "^0.5.4",
     "postcss": "^7.0.16",
     "postcss-cssnext": "^2.9.0",
-    "through2": "^2.0.3"
+    "through2": "^3.0.1"
   }
 }
