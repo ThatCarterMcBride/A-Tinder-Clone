@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "babel-preset-babili": "^0.1.4",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-babel": "^6.1.2",
     "gulp-html-minifier": "^0.1.8",
     "gulp-postcss": "^8.0.0",
